@@ -22,9 +22,15 @@ This project is built for:
   - Military readiness
   - Hunter training for mountainous terrain
 - 🔄 **Protocol toggles** for switching between training modes (e.g., taper, peak, recovery).
+- 
+## 📄 License
+
+This software is licensed under a custom proprietary license.  
+See [LICENSE.txt](LICENSE.txt) for details.
 
 ## 🚀 Getting Started
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/yourusername/innatestrength.git
+   
